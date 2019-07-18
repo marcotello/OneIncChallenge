@@ -1,0 +1,14 @@
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/bin/Debug/netcoreapp2.2/PaymentsAPI.deps.json
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/bin/Debug/netcoreapp2.2/PaymentsAPI.runtimeconfig.json
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/bin/Debug/netcoreapp2.2/PaymentsAPI.runtimeconfig.dev.json
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/bin/Debug/netcoreapp2.2/PaymentsAPI.dll
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/bin/Debug/netcoreapp2.2/PaymentsAPI.pdb
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.csprojAssemblyReference.cache
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.csproj.CoreCompileInputs.cache
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.RazorAssemblyInfo.cache
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.RazorAssemblyInfo.cs
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.AssemblyInfoInputs.cache
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.AssemblyInfo.cs
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.RazorTargetAssemblyInfo.cache
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.dll
+/home/marco/Documents/Personal/Workspace/Payments/PaymentsAPI/PaymentsAPI/obj/Debug/netcoreapp2.2/PaymentsAPI.pdb
